@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamimAzimi
-- 👀 I’m interested in arduin, Linux ,Nodejs,pythond ,AI and Elasticsearch, 
+- 👀 I’m interested in arduino, Linux ,Nodejs,python ,AI and Elasticsearch, 
 - 🌱 I’m currently learning social and human interaction 
 - 💞️ I’m looking to collaborate on any opensource technologies 
 - 📫 How to reach me ...
